@@ -22,7 +22,6 @@ This project provides a novel way to interact with a computer by using eye blink
 - pypyodbc
 - gTTS
 - speech_recognition
-- pypyodbc
 
 ## Usage
 
